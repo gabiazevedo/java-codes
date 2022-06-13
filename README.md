@@ -39,7 +39,7 @@ Este repositório tem como objetivo registrar e documentar meus primeiros passos
   
  ```json
   {
-      "finalizadoEm": "08/06/22",
+      "finalizadoEm": "13/06/22",
       "cargaHorária": "8h"
   }
   
