@@ -1,12 +1,15 @@
-# Java Codes
+# ☕ Java Codes ☕
+
 
 <p align="center">
-  <img align="" alt="developeRobot" src="https://github.com/gabiazevedo/java-codes/blob/main/java_gif.gif" height="180px" width="80%" />
+  <img align="" alt="mascoteJava" src="https://github.com/gabiazevedo/java-codes/blob/main/java_gif.gif" height="170px" width="80%" />
 </p>
 
 Este repositório tem como objetivo registrar e documentar meus primeiros passos na linguagem Java.
 
 ---
+
+<img align="right" alt="GIF" src="https://github.com/gabiazevedo/java-codes/blob/main/java_gif2.gif" width="300px" />
 
 ### Java JRE e JDK: compile e execute o seu programa ✅
  - Instalação e o primeiro programa;
